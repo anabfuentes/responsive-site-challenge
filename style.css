@@ -26,3 +26,27 @@ img {
 .col {
     width: 100%;
 }
+
+.header-title {
+    font-size: 3rem;
+    margin-top: 0;
+    text-align: center;
+}
+
+.header-title,
+.section-title {
+    font-family: 'Playfair Display', serif;
+}
+
+.subtitle {
+    font-weight: 300;
+    text-align: center;
+}
+
+.main-section-title {
+    text-align: center;
+}
+
+.long-text {
+    display: flex;
+}
