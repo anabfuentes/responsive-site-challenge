@@ -62,21 +62,4 @@ img {
     font-size: 1.5rem;
 }
 
-.long-text {
-    display: flex;
-    justify-content: space-between;
-}
-
-.long-text p {
-    width: 45%;
-}
-
-.text-pic-set {
-    display: flex;
-    justify-content: space-between;
-}
-
-.short-text {
-    width: 42%;
-}
 
