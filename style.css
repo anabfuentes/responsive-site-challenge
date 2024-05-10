@@ -20,7 +20,7 @@ img {
 }
 
 .main {
-    min-height: 600px;
+    min-height: 660px;
     background-color: #F3EED9;
     padding: 200px 0;
 }
@@ -53,13 +53,37 @@ img {
     font-weight: .75rem;
 }
 
-.main-section-title {
-    text-align: center;
-    color: #824936;
-}
-
 .section-title {
     font-size: 1.5rem;
+}
+
+.section-three {
+    background-color: #222c2A;
+}
+
+.section-four {
+    background-color: #824936;
+}
+
+.section-two .section-title {
+    color:#824936;
+    text-align: center;
+}
+
+.section-three .section-title,
+.section-four .section-title {
+    color: #F3EED9;
+}
+
+.section-three p,
+.section-four p {
+    color: white;
+}
+
+.section-two,
+.section-three,
+.section-four {
+    padding: 50px 0;
 }
 
 
