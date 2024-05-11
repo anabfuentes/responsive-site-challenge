@@ -57,33 +57,33 @@ img {
     font-size: 1.5rem;
 }
 
+.section-two {
+    padding: 50px 0;
+}
+
 .section-three {
     background-color: #222c2A;
+    padding: 50px 0;
 }
 
 .section-four {
     background-color: #824936;
+    padding: 50px 0;
 }
 
-.section-two .section-title {
+.section-title,
+.section-title {
+    color: #F3EED9;
+}
+
+.section-title-dark {
     color:#824936;
     text-align: center;
-}
-
-.section-three .section-title,
-.section-four .section-title {
-    color: #F3EED9;
 }
 
 .section-three p,
 .section-four p {
     color: white;
-}
-
-.section-two,
-.section-three,
-.section-four {
-    padding: 50px 0;
 }
 
 
